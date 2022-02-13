@@ -13,5 +13,3 @@ const user = require("./routes/user");
 app.use("/api/v1", user);
 
 module.exports = app;
-
-//  {}/api/v1/endpoint
